@@ -1,2 +1,2 @@
-# clean_programming_kung_fu
+# Collaborative Coding
 Course in programming in a clean and maintainable way. Be able to communicate with your code.
